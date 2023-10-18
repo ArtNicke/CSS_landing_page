@@ -1,17 +1,17 @@
-# Projeto de Landing Page CSS
+# CSS Landing Page Project
 
-Este é um projeto de uma landing page desenvolvida como parte do bootcamp da Digital Innovation One (DIO). O objetivo deste projeto é praticar e aprimorar as habilidades em CSS e design de página da web.
+This project is a landing page developed as part of the Digital Innovation One (DIO) bootcamp. The purpose of this project is to practice and enhance skills in CSS and web page design.
 
-## Descrição
+## Description
 
-A landing page é uma página web usada para promover ou apresentar um produto, serviço ou conceito. Neste projeto, aplicamos conceitos de CSS para criar um design atraente e responsivo que captura a atenção dos visitantes.
+A landing page is a web page used to promote or present a product, service, or concept. In this project, we apply CSS concepts to create an attractive and responsive design that captures the attention of visitors.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML
 - CSS
 
-## Exemplo
+## Example
 
 [https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A32&mode=dev]
 
