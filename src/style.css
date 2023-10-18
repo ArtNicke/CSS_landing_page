@@ -1,0 +1,47 @@
+/* Define o corpo da página para ocupar a tela inteira e centraliza os elementos */
+body {
+    display: flex;
+    width: 535px;
+    padding: 16px 127px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100vh;
+    margin: 0;
+    background-color: #121212; /* Cor de fundo escura */
+    color: #fff; /* Cor do texto branca */
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estiliza um cabeçalho com fundo azul escuro e texto branco */
+  header {
+    background-color: #003366; /* Azul escuro */
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Estiliza um botão com fundo azul e texto branco */
+  .button {
+    background-color: #0077b6; /* Azul mais claro */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Estiliza um contêiner com borda azul e fundo branco */
+  .container {
+    background-color: #fff;
+    border: 1px solid #0077b6; /* Azul mais claro */
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  
+    /* Novas especificações */
+    border-radius: 57px;
+    border: 1px solid #33A8DB; /* Azul mais claro */
+    background: #252525; /* Cor de fundo escura */
+    box-shadow: -2px 6px 4px 0px rgba(0, 0, 0, 0.40) inset;
+  }
+  
