@@ -1,4 +1,4 @@
-# CSS Landing Page Project
+# Landing Page 
 
 This project is a landing page developed as part of the Digital Innovation One (DIO) bootcamp. The purpose of this project is to practice and enhance skills in CSS and web page design.
 
